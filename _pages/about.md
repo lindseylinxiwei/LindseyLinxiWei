@@ -11,9 +11,9 @@ redirect_from:
 📢 **I am actively seeking PhD positions for fall 2026!**
 </div>
 
-I am an undergraduate student at the [University of Washington](https://www.washington.edu/), pursuing a double major in Computer Science and Applied Mathematics. I am a researcher in the [UW Database Group (UWDB)](https://db.cs.washington.edu/), advised by Prof. [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda) and mentored by [Guorui Xiao](https://xertxiao.github.io/). I spent Summer 2025 in the [EPIC Data Lab](https://epic.berkeley.edu/) at UC Berkeley as a visiting researcher, advised by Prof. [Aditya Parameswaran](https://adityagp.com/) and mentored by [Shreya Shankar](https://www.sh-reya.com/).
+I am an undergraduate student at the [University of Washington](https://www.washington.edu/), pursuing a double major in Computer Science and Applied Mathematics. I am a researcher in the [UW Database Group (UWDB)](https://db.cs.washington.edu/), advised by Prof. [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). I also collaborate with Prof. [Dan Suciu](https://homes.cs.washington.edu/~suciu/). I spent Summer 2025 in the [EPIC Data Lab](https://epic.berkeley.edu/) at UC Berkeley as a visiting researcher, advised by Prof. [Aditya Parameswaran](https://adityagp.com/). I am also fortunate to be mentored by [Guorui Xiao](https://xertxiao.github.io/) and [Shreya Shankar](https://www.sh-reya.com/).
 
-My research focuses on data management and machine learning, with an emphasis on applying foundation models to data exploration and integration. 
+My research focuses on data management and machine learning, with an emphasis on semantic table annotation and LLM-powered data systems. 
 
 ## Publications {#publications}
 <span style="font-size: 0.8em; vertical-align: super;">*</span>Equal contribution
