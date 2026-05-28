@@ -12,7 +12,7 @@ title                    : "Lindsey Linxi Wei"
 title_separator          : "-"
 name                     : &name "Lindsey Linxi Wei"
 description              : &description "Undergraduate student at University of Washington studying Computer Science and Applied Mathematics. Researcher in UW Database Group (UWDB) working on data management and machine learning."
-url                      : https://lindseyyyw.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lindseylinxiwei.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/LindseyLinxiWei" # the subpath of your site, e.g. "/blog"
 repository               : "LindseyLinxiWei"
 
