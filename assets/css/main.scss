@@ -40,6 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__footer {
+  background-color: #fff;
+}
+
+.page__title {
+  margin-bottom: 0.9em;
+}
+
 /* Custom styles to remove underlines from links */
 .page__content a {
   text-decoration: none;

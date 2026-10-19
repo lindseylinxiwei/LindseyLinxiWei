@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the University of California, Berkeley, advised by Prof. [Aditya Parameswaran](https://adityagp.com/) and Prof. Alvin Cheung. I received my B.S. in Computer Science and Applied Mathematics from the [University of Washington](https://www.washington.edu/), where I was fortunate to work in the [UW Database Group (UWDB)](https://db.cs.washington.edu/) with Prof. [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). During Summer 2026, I was a research intern fellow at [Epiq AI Labs](https://ailabs.epiqglobal.com/). I am also fortunate to be mentored by [Guorui Xiao](https://xertxiao.github.io/) and Prof. [Shreya Shankar](https://www.sh-reya.com/).
+I am a first-year PhD student at the [University of California, Berkeley](https://www.berkeley.edu/), advised by Prof. [Aditya Parameswaran](https://adityagp.com/) and Prof. [Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/). I received my B.S. in Computer Science and Applied Mathematics from the [University of Washington](https://www.washington.edu/), where I was fortunate to work in the [UW Database Group (UWDB)](https://db.cs.washington.edu/) with Prof. [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda). During Summer 2026, I was a research intern fellow at [Epiq AI Labs](https://ailabs.epiqglobal.com/). I am also fortunate to be mentored by [Guorui Xiao](https://xertxiao.github.io/) and Prof. [Shreya Shankar](https://www.sh-reya.com/).
 
 ## News
 
-- **Aug 2026**: I joined UC Berkeley as a PhD student!
+- **Aug 2026**: I joined UC Berkeley as a PhD student 🐻!
 - **Jun 2026**: I started my internship at [Epiq AI Labs](https://ailabs.epiqglobal.com/).
 - **May 2026**: [MOAR (Multi-Objective Agentic Rewrites for Unstructured Data Processing)](https://arxiv.org/abs/2512.02289) was accepted to VLDB 2026!
 - **Jan 2026**: I am honored to receive an honorable mention for the 2025-2026 <strong style="color: #9B8FCC;">CRA Outstanding Undergraduate Researcher Award</strong>!
@@ -20,7 +20,7 @@ I am a first-year PhD student at the University of California, Berkeley, advised
 <span style="font-size: 0.8em; vertical-align: super;">*</span>Equal contribution
 
 **Multi-Objective Agentic Rewrites for Unstructured Data Processing**
-<br><ins>Lindsey Linxi Wei</ins>, Shreya Shankar, Sepanta Zeighami, Yeounoh Chung, Fatma Ozcan, Aditya G. Parameswaran
+<br><ins>Lindsey Linxi Wei</ins><span style="font-size: 0.8em; vertical-align: super;">*</span>, Shreya Shankar<span style="font-size: 0.8em; vertical-align: super;">*</span>, Sepanta Zeighami, Yeounoh Chung, Fatma Ozcan, Aditya G. Parameswaran
 <br><em>VLDB 2026</em>
 <br>
 [<a href="https://arxiv.org/abs/2512.02289">
